@@ -122,6 +122,20 @@ Using January–August averages for 2022 and 2026:
 
 These findings are descriptive comparisons of the BLS average-price data and do not establish the causes of price changes.
 
+## Power BI Dashboard Screenshots
+
+### Dashboard Overview
+
+![Dashboard Overview](dashboard_overview.png)
+
+### Price Analysis
+
+![Price Analysis](price_analysis.png)
+
+### Summary Table
+
+![Summary Table](summary_table.png)
+
 ## Project Structure
 
 ```text
