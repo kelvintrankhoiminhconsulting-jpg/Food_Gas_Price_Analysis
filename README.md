@@ -126,15 +126,15 @@ These findings are descriptive comparisons of the BLS average-price data and do 
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ### Price Analysis
 
-![Price Analysis](price_analysis.png)
+![Price Analysis](screenshots/price_analysis.png)
 
 ### Summary Table
 
-![Summary Table](summary_table.png)
+![Summary Table](screenshots/summary_table.png)
 
 ## Project Structure
 
@@ -149,7 +149,7 @@ Food_Gas_Price_Project
 ├── python
 │
 ├── sql
-│   └── food_gas_price_analysis.sql
+│   └── raw_food_gas_price_analysis.sql
 │
 ├── powerbi
 │   └── Food_Gas_Price_Analysis.pbix
