@@ -146,7 +146,6 @@ Food_Gas_Price_Project
 │   ├── staging
 │   └── final
 │
-├── python
 │
 ├── sql
 │   └── raw_food_gas_price_analysis.sql
@@ -159,4 +158,4 @@ Food_Gas_Price_Project
 │   ├── price_analysis.png
 │   └── summary_table.png
 │
-└── docs
+
